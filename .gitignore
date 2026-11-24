@@ -1,7 +1,7 @@
 node_modules
 .next
+out
 emsdk
 wasm/cubiomes
-public/wasm/cubiomes.*
 *.tsbuildinfo
 .env.local
