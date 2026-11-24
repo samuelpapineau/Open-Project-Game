@@ -1,0 +1,2 @@
+.ad { display: block; margin: 16px auto; min-height: 100px; max-width: 100%; }
+.placeholder { border: 1px dashed var(--line); color: var(--mute); text-align: center; line-height: 100px; font-size: .8rem; }
